@@ -7,13 +7,11 @@ body{
     flex-direction: column;
 }
 h1,h2,h3{
-<<<<<<< HEAD
     color: red;
 }
 .banner{
     width: 100%;
     text-align: center;
-=======
     color: blue;
     width: 25%;
     padding: 0 30px;
@@ -28,5 +26,4 @@ h1,h2,h3{
     width: 25%;
     height: 500px;
     padding: 0 30px;
->>>>>>> nuevaRama
 }
