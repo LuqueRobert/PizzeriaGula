@@ -7,3 +7,6 @@ Esto mensaje es el primero para ver lo cambios es como metodo de prueba
 Probando la realizacion de Pull
 ### PASO 2
 Por el momento sigue en desarrollo
+### PASO 3 
+Cambios para ver la funcion de git fetch
+tyuu
